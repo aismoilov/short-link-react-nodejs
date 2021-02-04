@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "amirtest",
+    "baseUrl": "http://localhost:5000",
+    "mongoUri": "mongodb+srv://amir:amir1234@cluster0.uwtnf.mongodb.net/app?retryWrites=true&w=majority"
+}

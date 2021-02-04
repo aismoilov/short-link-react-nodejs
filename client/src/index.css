@@ -1,0 +1,27 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.login-btn {
+    margin-right: 20px;
+}
+
+input.white-input {
+    border-bottom: 1px solid #fff !important;
+    box-shadow: 0 1px 0 0 #fff !important;
+}
+
+input.white-input + label {
+    color: #fff!important;
+}
+
+input.white-input:focus {
+    border-bottom: 1px solid #f1f1f1 !important;
+    box-shadow: 0 1px 0 0 #f1f1f1 !important;
+}
+
+.brand-logo {
+    margin-left: 10px;
+}
+
+.link-field {
+    margin-top: 2.5rem;
+}
